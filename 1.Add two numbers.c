@@ -4,5 +4,7 @@ float a,b;
 printf("enter two number");
 scanf("%f %f",&a,&b);
 printf("sum is %f",a+b);
+return 0;
 }
+
 

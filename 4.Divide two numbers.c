@@ -4,4 +4,6 @@ float a,b;
 printf("enter two number");
 scanf("%f %f",&a,&b);
 printf("Division is %f",a/b);
+return 0;
 }
+
